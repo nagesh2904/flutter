@@ -37,11 +37,11 @@ class ContactCard extends StatelessWidget {
             const SizedBox(height: 30), // Padding from top
             CircleAvatar(
               radius: 60,
-              backgroundImage: AssetImage('assest/profile.jpeg'), // your asset
+              backgroundImage: AssetImage('assets/profile_picture.jpg'), // your asset
             ),
             const SizedBox(height: 10), // 10 unit spacing
             const Text(
-              'lavish attri ',
+              'Akanksha singh',
               style: TextStyle(
                 fontSize: 24,
                 fontWeight: FontWeight.bold,
@@ -59,14 +59,14 @@ class ContactCard extends StatelessWidget {
               margin: const EdgeInsets.symmetric(horizontal: 20, vertical: 5),
               child: ListTile(
                 leading: const Icon(Icons.phone),
-                title: const Text('9193392034'),
+                title: const Text('9305534645'),
               ),
             ),
             Card(
               margin: const EdgeInsets.symmetric(horizontal: 20, vertical: 5),
               child: ListTile(
                 leading: const Icon(Icons.email),
-                title: const Text('lavish.attri_cs23@gla.ac.in'),
+                title: const Text('Akanksha.singh_cs23@gla.ac.in'),
               ),
             ),
           ],
@@ -75,3 +75,6 @@ class ContactCard extends StatelessWidget {
     );
   }
 }
+
+
+// Testing Git commit
