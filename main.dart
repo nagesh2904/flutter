@@ -98,7 +98,7 @@ class ProfilePage extends StatelessWidget {
             const SizedBox(height: 8),
             const Text(
               'Nagesh chaudhary is an App Designer with over 5 years of experience in creating user-centered designs. '
-                  'She specializes in creating user-centered designs. She specializes in UI/UX design,user research, and prototyping. Apeksha is passionate about solving complex problems '
+                  'He specializes in creating user-centered designs. She specializes in UI/UX design,user research, and prototyping. nagesh is passionate about solving complex problems '
                   'and creating intuitive and engaging user experiences.',
               style: TextStyle(height: 1.5),
               textAlign: TextAlign.justify,
