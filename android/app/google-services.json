@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "102850384516",
+    "project_id": "fir-authwithcloudinary-747bb",
+    "storage_bucket": "fir-authwithcloudinary-747bb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:102850384516:android:a20b0cc1eb0b8efaa428d1",
+        "android_client_info": {
+          "package_name": "com.example.firebaseauthwithcloudinary"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPDq5SRPFu6vYC3Yl5j3Wr70AXjWHFdDg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
