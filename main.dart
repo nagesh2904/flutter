@@ -51,7 +51,7 @@ class ProfilePage extends StatelessWidget {
 
             // Name and role
             const Text(
-              'Nagesh chaudhary',
+              'Lavish attri',
               style: TextStyle(fontSize: 22, fontWeight: FontWeight.bold),
             ),
             const Text(
@@ -97,8 +97,8 @@ class ProfilePage extends StatelessWidget {
             ),
             const SizedBox(height: 8),
             const Text(
-              'Nagesh chaudhary is a Product Designer with over 5 years of experience in creating user-centered designs. '
-                  'She specializes in creating user-centered designs. She specializes in UI/UX design,user research, and prototyping.Nagesh  is passionate about solving complex problems '
+              'Lavish Attriis a Product Designer with over 5 years of experience in creating user-centered designs. '
+                  'She specializes in creating user-centered designs. She specializes in UI/UX design,user research, and prototyping.Lavish is passionate about solving complex problems '
                   'and creating intuitive and engaging user experiences.',
               style: TextStyle(height: 1.5),
               textAlign: TextAlign.justify,
@@ -116,7 +116,7 @@ class ProfilePage extends StatelessWidget {
             const SizedBox(height: 12),
             ContactRow(
               icon: Icons.email,
-              text: 'nagesh.chaudhary_cs23@email.com',
+              text: 'lavish.attri_cs23@email.com',
             ),
             ContactRow(
               icon: Icons.phone,
